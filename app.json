@@ -1,6 +1,6 @@
 {
-  "name": "CARL TECH",
-  "description": "Buddy-XTR by carl william.",
+  "name": "CRUZE TECH",
+  "description": "CRUZE-XTR by Cruze blade.",
   "logo": "https://files.catbox.moe/waszph.jpg",
   "keywords": ["CARL-TECH", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/carl24tech/Buddy-XTR",
@@ -24,7 +24,7 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": false,
-      "value": "𝖂𝖎𝖑𝖑𝖎𝖆𝖒"
+      "value": "CRUZE"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
